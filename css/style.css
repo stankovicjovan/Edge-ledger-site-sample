@@ -248,3 +248,22 @@ cursor: pointer;
   width: 100%;
   padding: 0.5rem;
 }
+
+/* Sucess */
+
+/* #success-body {
+  display: block;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+} */
+
+#success {
+  display: block;
+  width: 50%;
+  margin: auto;
+ border: 1px solid #333;
+ align-items: center;
+ justify-content: center;
+ margin-top: 200px;
+}
